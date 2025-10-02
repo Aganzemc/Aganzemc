@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, Vue.js  
+- **Frontend:** React, Vue.js  
 - **Backend:** Node.js, Express, Prisma API, PHP (Laravel, MVC Custom)  
 - **Databases:** MySQL, PostgreSQL  
 - **Data Engineering:** Pentaho, ETL, Data Warehousing  
@@ -67,7 +67,7 @@
 
 ---
 
-## 🎵 Now Playing (Amapiano Vibes)
+
 
 [![Spotify](https://novatorem-aganzemc.vercel.app/api/spotify)](https://open.spotify.com/user/aganzemc)
 
@@ -83,7 +83,7 @@
 <a href="https://buzabyte2024.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/48/000000/company.png" width="32"/></a>
 
 <p>
-  <b>📞 Téléphone / WhatsApp : <a href="tel:+243997366776">+243 997366776</a></b>
+  <b>📞 Téléphone / WhatsApp : <a href="tel:+243997366776">+243 997 366 776</a></b>
 </p>
 
 ---
