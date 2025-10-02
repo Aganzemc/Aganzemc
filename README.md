@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-💻 **Full-Stack Developer & Technical Enthusiast**  
+💻 **Full-Stack (mobile & web) & Technical Enthusiast**  
 🎯 Passionné par la création de solutions web/mobile et de systèmes financiers innovants  
-🎮 Gamer, fan d’Amapiano, et toujours motivé par de nouveaux défis !
+🎮 Gamer et toujours motivé par de nouveaux défis !
 
 > <img src="https://img.icons8.com/color/48/000000/quote-left.png" width="20"/>  
 > <b><i>Impossible n'existe que dans l'imagination des gens qui abandonnent.</i></b>  
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Vue.js  
+- **Frontend:** React, Vue.js, React Native  
 - **Backend:** Node.js, Express, Prisma API, PHP (Laravel, MVC Custom)  
 - **Databases:** MySQL, PostgreSQL  
 - **Data Engineering:** Pentaho, ETL, Data Warehousing  
