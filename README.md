@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-💻 **Full-Stack (mobile & web) & Technical Enthusiast**  
+💻 **Full-Stack (Dev Mobile & Web | Backend) & Technical Enthusiast**  
 🎯 Passionné par la création de solutions web/mobile et de systèmes financiers innovants  
 🎮 Gamer et toujours motivé par de nouveaux défis !
 
